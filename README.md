@@ -8,6 +8,11 @@ A small 3D movement prototype: jump between floating islands, dash through cyan 
 
 ## Play
 
+**[Download Windows build (v1.1)](https://github.com/EtherestQQ/aether-dash/releases/download/v1.1/AetherDash-Windows-v1.1.zip)** · [Release notes and checksums](https://github.com/EtherestQQ/aether-dash/releases/tag/v1.1)
+
+Extract the ZIP, then open `AetherDash.exe`. Godot is not required to play.
+
+
 Run `AetherDash.exe` from the Windows release. No editor or separate PCK file is needed. For source, import `project.godot` in Godot 4.7.2 and press F5.
 
 - WASD: move; forward is toward the horizon.
