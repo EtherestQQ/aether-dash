@@ -59,3 +59,4 @@ godot --headless --path . --export-release "Windows Desktop" ../Windows/AetherDa
 ## Limits
 
 One short course and keyboard controls. No rebinding, gamepad dash binding, camera collision or music. Reduced motion disables dash FOV and trail feedback. Automated traversal and render checks do not replace human testing of game feel. Best time is local. Demo scripts use no network services or telemetry.
+
