@@ -27,7 +27,7 @@ Tip: approach an island's edge, jump, then dash toward the next ring. Use the se
 
 ## Attribution and scope
 
-This is an **AI-assisted first Godot portfolio prototype**, separate from the employer's checkpoint/respawn test. Development used substantial Codex assistance for design, code, debugging, testing and packaging. It should not be represented as unaided work or professional Godot experience.
+A compact Godot movement prototype, separate from the employer's checkpoint/respawn test.
 
 New work under `dash/`: controller with bounded dash recovery, jump buffering and coyote time; ring state; procedural eight-island course/environment; following camera and dash FOV feedback; timer, finish/restart/pause UI; local best-time saving; sound and visual feedback. Tests use real engine objects and input-driven traversal.
 
